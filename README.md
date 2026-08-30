@@ -4,47 +4,48 @@ A weekly digest of the GitHub repos gaining stars fastest, computed from [RepoRa
 
 ---
 
-# Rising stars — 2026-08-23
+# Rising stars — 2026-08-30
 
 Top 25 GitHub repos by stars gained over the last 7 days, measured from [RepoRadar](https://khangyen.github.io/repo-radar/)'s own daily snapshots.
 
-1. **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** +68,978 ★ (185,206 total) `TypeScript` — DeepSeek Harness: Everything is a Plugin.
-   - HN: [DeepSeek Harness developer preview](https://news.ycombinator.com/item?id=49285244) (745 points)
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** +13,728 ★ (232,147 total) `Shell` — Skills for Real Engineers. Straight from my .agents directory.
-   - HN: [Show HN: WYSIWYG markdown editor for any GitHub repo](https://news.ycombinator.com/item?id=48279835) (4 points)
-3. **[anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)** +12,296 ★ (18,345 total) `TypeScript` — 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-4. **[awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** +8,485 ★ (11,540 total) `Python` — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-5. **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** +7,279 ★ (17,065 total) `Python` — Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
-   - HN: [Watermarks-remover: Strip multi-vendor AI provenance marks](https://news.ycombinator.com/item?id=49282033) (3 points)
-6. **[stablyai/orca](https://github.com/stablyai/orca)** +5,160 ★ (51,296 total) `TypeScript` — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+1. **[stablyai/orca](https://github.com/stablyai/orca)** +5,587 ★ (56,883 total) `TypeScript` — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
    - HN: [Show HN: Open Source 'Conductor + Ghostty'](https://news.ycombinator.com/item?id=47549197) (21 points)
-7. **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** +4,865 ★ (6,643 total) `PowerShell` — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-8. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** +4,662 ★ (53,270 total) `TypeScript` — Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
-9. **[santifer/career-ops](https://github.com/santifer/career-ops)** +3,854 ★ (67,796 total) `JavaScript` — Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
-10. **[nexu-io/open-design](https://github.com/nexu-io/open-design)** +3,490 ★ (90,454 total) `TypeScript` — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, 
+2. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** +4,909 ★ (58,179 total) `TypeScript` — Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &
+3. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** +4,269 ★ (51,555 total) `Python` — Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+4. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** +2,825 ★ (38,175 total) `Python` — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+5. **[MengTo/threeui](https://github.com/MengTo/threeui)** +2,651 ★ (4,578 total) `HTML` — Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+6. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** +2,503 ★ (43,456 total) `Python` — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+7. **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** +2,380 ★ (38,882 total) `Rust` — Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+8. **[nexu-io/open-design](https://github.com/nexu-io/open-design)** +2,216 ★ (92,670 total) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, 
    - HN: [Open Design: Use Your Coding Agent as a Design Engine](https://news.ycombinator.com/item?id=47985750) (232 points)
-11. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** +3,338 ★ (40,953 total) `Python` — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-12. **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** +3,108 ★ (3,786 total) — A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
-13. **[zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)** +2,859 ★ (5,605 total) `TypeScript` — Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
-14. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** +2,193 ★ (61,637 total) `JavaScript` — The design language that makes your AI harness better at design.
-15. **[dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)** +2,114 ★ (3,405 total) `TypeScript` — Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
-16. **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** +1,939 ★ (100,347 total) `Go` — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-   - HN: [Caveman: Why use many token when few token do trick](https://news.ycombinator.com/item?id=47647455) (904 points)
-17. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** +1,883 ★ (242,190 total) `JavaScript` — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-18. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** +1,726 ★ (47,286 total) `Python` — Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
-19. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** +1,666 ★ (83,817 total) `TypeScript` — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+9. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** +2,216 ★ (112,362 total) `Python` — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+   - HN: [Graphify – Less token use for Claude Code](https://news.ycombinator.com/item?id=49217306) (3 points)
+10. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** +2,204 ★ (63,841 total) `JavaScript` — The design language that makes your AI harness better at design.
+11. **[tobi/walgit](https://github.com/tobi/walgit)** +2,158 ★ (2,329 total) `Rust`
+12. **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** +2,067 ★ (3,215 total) `Python` — Autonomous research system for measurable, computer-executable research.
+13. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** +1,607 ★ (50,243 total) `Python` — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
+14. **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** +1,540 ★ (2,783 total) `Python` — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+15. **[santifer/career-ops](https://github.com/santifer/career-ops)** +1,510 ★ (69,306 total) `JavaScript` — Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+16. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** +1,398 ★ (244,341 total) `JavaScript` — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+17. **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** +1,307 ★ (37,843 total) `Python` — 符合nature论文学术表达和科研绘图的Skill
+18. **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** +1,222 ★ (41,146 total) `C` — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
+   - HN: [Ask HN: SoTA of Context Building Methods](https://news.ycombinator.com/item?id=47659469) (5 points)
+19. **[garrytan/gstack](https://github.com/garrytan/gstack)** +1,149 ★ (130,366 total) `TypeScript` — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+   - HN: [Translate Garry Tan's LinkedIn-speak to plain English](https://news.ycombinator.com/item?id=47436453) (115 points)
+20. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** +1,132 ★ (84,949 total) `TypeScript` — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
    - HN: [WorldMonitor: Real-time global intelligence dashboard](https://news.ycombinator.com/item?id=48599274) (6 points)
-20. **[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)** +1,654 ★ (38,803 total) `Go` — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-21. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** +1,561 ★ (48,636 total) `Python` — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
-22. **[yetone/cumora](https://github.com/yetone/cumora)** +1,530 ★ (2,901 total) `TypeScript` — Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
-23. **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** +1,485 ★ (3,715 total) `JavaScript` — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
-24. **[dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop)** +1,260 ★ (1,808 total) `TypeScript` — DSHDesktop：DeepSeek Harness Desktop
-25. **[dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)** +1,257 ★ (1,849 total) `TypeScript` — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
+21. **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** +1,122 ★ (3,457 total) `TypeScript` — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+   - HN: [Show HN: Open Bot – an open-source Grok Bot that works with any agent harness](https://news.ycombinator.com/item?id=49365575) (12 points)
+22. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** +1,111 ★ (38,087 total) `Python` — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
+23. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** +1,065 ★ (92,601 total) `JavaScript` — Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+24. **[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)** +1,027 ★ (39,830 total) `Go` — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+25. **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** +977 ★ (43,096 total) `TypeScript` — Write HTML. Render video. Built for agents.
 
 *Generated automatically from repos that stayed on RepoRadar's radar all week; brand-new entries appear once they have a week of history.*
 
 ## Past weeks
 
+- [2026-08-30](digests/2026-08-30.md)
 - [2026-08-23](digests/2026-08-23.md)
 - [2026-08-16](digests/2026-08-16.md)
 - [2026-08-09](digests/2026-08-09.md)
