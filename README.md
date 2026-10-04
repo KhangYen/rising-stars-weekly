@@ -4,50 +4,52 @@ A weekly digest of the GitHub repos gaining stars fastest, computed from [RepoRa
 
 ---
 
-# Rising stars — 2026-09-27
+# Rising stars — 2026-10-04
 
 Top 25 GitHub repos by stars gained over the last 7 days, measured from [RepoRadar](https://khangyen.github.io/repo-radar/)'s own daily snapshots.
 
-1. **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** +24,408 ★ (25,996 total) `Python` — Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
-2. **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** +11,427 ★ (20,608 total) `Python` — Fastest and cheapest web agent
-   - HN: [Jev Ultrafast: A browser agent with a dynamic, indexed action space](https://news.ycombinator.com/item?id=49735979) (93 points)
-3. **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** +6,673 ★ (7,262 total) `Python` — Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
-   - HN: [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://news.ycombinator.com/item?id=49783999) (461 points)
-4. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** +6,661 ★ (87,751 total) `TypeScript` — The open-source app everyone uses to manage agents at work
-   - HN: [Paperclip: Open-source orchestration for zero-human companies](https://news.ycombinator.com/item?id=47277096) (6 points)
-5. **[stablyai/orca](https://github.com/stablyai/orca)** +6,226 ★ (79,043 total) `TypeScript` — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-   - HN: [Show HN: Open Source 'Conductor + Ghostty'](https://news.ycombinator.com/item?id=47549197) (21 points)
-6. **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** +5,010 ★ (6,694 total) `Kotlin` — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
-7. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** +4,722 ★ (72,357 total) `JavaScript` — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-8. **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** +4,467 ★ (6,434 total) `Python` — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
-9. **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** +3,832 ★ (43,645 total) `JavaScript` — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-   - HN: [A spy satellite simulator in the browser, except the data is real](https://news.ycombinator.com/item?id=49446839) (12 points)
-10. **[Mak5er/AirCard](https://github.com/Mak5er/AirCard)** +3,778 ★ (4,429 total) `Swift` — Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
-11. **[zai-org/ZCode](https://github.com/zai-org/ZCode)** +3,571 ★ (6,847 total) `TypeScript` — Z.ai's coding agent harness. Powerful, intelligent, extensible.
-12. **[obra/superpowers](https://github.com/obra/superpowers)** +3,098 ★ (291,989 total) `Shell` — An agentic skills framework & software development methodology that works.
-   - HN: [Show HN: JDS – a Copilot skill suite for structuring AI coding behavior](https://news.ycombinator.com/item?id=48140677) (9 points)
-13. **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** +2,989 ★ (5,779 total) `Swift` — The Photoshop alternative for Mac
-14. **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** +2,696 ★ (58,498 total) `Python` — Learn it. Build it. Ship it for others.
-15. **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** +2,572 ★ (6,977 total) `TypeScript` — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati
-16. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** +2,408 ★ (71,613 total) `JavaScript` — The design language that makes your AI harness better at design.
-17. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** +2,241 ★ (70,544 total) `TypeScript` — Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
-18. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** +2,159 ★ (99,319 total) `JavaScript` — Production-grade engineering skills for AI coding agents.
-19. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** +2,008 ★ (121,698 total) `Python` — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-   - HN: [Graphify – Less token use for Claude Code](https://news.ycombinator.com/item?id=49217306) (3 points)
-20. **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** +1,956 ★ (37,507 total) `Python` — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+1. **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** +15,223 ★ (52,730 total) `Python` — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
    - HN: [VoiceStudio – local open-source ElevenLabs alternative](https://news.ycombinator.com/item?id=49706572) (6 points)
-21. **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** +1,689 ★ (53,385 total) `TypeScript` — Write HTML. Render video. Built for agents.
+2. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** +9,071 ★ (96,822 total) `TypeScript` — The open-source app everyone uses to manage agents at work
+   - HN: [Paperclip: Open-source orchestration for zero-human companies](https://news.ycombinator.com/item?id=47277096) (6 points)
+3. **[Niko1221/Strata](https://github.com/Niko1221/Strata)** +7,652 ★ (8,841 total) `C++` — Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+   - HN: [Strata: Qwen3.8-Flash-Next (125B Moe) on a 8GB+ Nvidia GPU](https://news.ycombinator.com/item?id=49879253) (5 points)
+4. **[stablyai/orca](https://github.com/stablyai/orca)** +5,507 ★ (84,550 total) `TypeScript` — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+   - HN: [Show HN: Open Source 'Conductor + Ghostty'](https://news.ycombinator.com/item?id=47549197) (21 points)
+5. **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** +4,789 ★ (63,287 total) `Python` — Learn it. Build it. Ship it for others.
+6. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** +4,473 ★ (76,830 total) `JavaScript` — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+7. **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** +4,012 ★ (5,519 total) `TypeScript` — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+8. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** +3,890 ★ (75,503 total) `JavaScript` — The design language that makes your AI harness better at design.
+9. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** +3,872 ★ (272,393 total) `JavaScript` — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+10. **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** +3,768 ★ (45,190 total) `Python` — Hindsight: Agent Memory That Learns
+11. **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** +3,502 ★ (47,147 total) `JavaScript` — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+   - HN: [A spy satellite simulator in the browser, except the data is real](https://news.ycombinator.com/item?id=49446839) (12 points)
+12. **[yetone/magpie](https://github.com/yetone/magpie)** +3,412 ★ (4,504 total) `Go` — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+13. **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** +2,981 ★ (56,366 total) `TypeScript` — Write HTML. Render video. Built for agents.
    - HN: [Show HN: HyperFrames – Render Video from HTML via Chrome's BeginFrame API](https://news.ycombinator.com/item?id=47797513) (6 points)
-22. **[newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)** +1,498 ★ (2,216 total) `Python` — Suitable for Android APK reverse engineering analysis
-23. **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** +1,408 ★ (44,708 total) `Python` — 符合nature论文学术表达和科研绘图的Skill
-24. **[driceroland/Search](https://github.com/driceroland/Search)** +1,360 ★ (2,125 total) `Swift` — A small, fast WebKit browser for macOS, by Office Commun.
-   - HN: [Search – A small, fast WebKit browser for macOS](https://news.ycombinator.com/item?id=49828120) (67 points)
-25. **[CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)** +1,283 ★ (2,369 total) `TypeScript` — A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.
+14. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** +2,176 ★ (72,720 total) `TypeScript` — Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
+15. **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** +2,087 ★ (2,679 total) `TypeScript` — Your always-on AI coworkers that move between text, calls, and Slack.
+16. **[shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)** +2,047 ★ (3,144 total) `Kotlin` — Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
+17. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** +1,895 ★ (123,593 total) `Python` — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+   - HN: [Graphify – Less token use for Claude Code](https://news.ycombinator.com/item?id=49217306) (3 points)
+18. **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** +1,728 ★ (2,699 total) `Python` — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
+19. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** +1,719 ★ (153,726 total) `JavaScript` — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+   - HN: [Ponytail – make your AI agent think like the laziest senior dev in the room](https://news.ycombinator.com/item?id=48527946) (98 points)
+20. **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** +1,635 ★ (109,608 total) `Go` — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+   - HN: [Caveman: Why use many token when few token do trick](https://news.ycombinator.com/item?id=47647455) (904 points)
+21. **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** +1,577 ★ (3,261 total) `Swift` — A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.
+22. **[odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)** +1,470 ★ (89,193 total) `Python` — Self-hosted AI workspace. 
+23. **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** +1,322 ★ (2,188 total) `TypeScript` — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
+   - HN: [Jevgrep: A CLI for coding agents that uses Jev to discover relevant files](https://news.ycombinator.com/item?id=49880146) (5 points)
+24. **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** +1,122 ★ (2,765 total) `Python`
+25. **[nexu-io/open-design](https://github.com/nexu-io/open-design)** +1,110 ★ (99,337 total) `TypeScript` — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, 
+   - HN: [Open Design: Use Your Coding Agent as a Design Engine](https://news.ycombinator.com/item?id=47985750) (232 points)
 
 *Generated automatically from repos that stayed on RepoRadar's radar all week; brand-new entries appear once they have a week of history.*
 
 ## Past weeks
 
+- [2026-10-04](digests/2026-10-04.md)
 - [2026-09-27](digests/2026-09-27.md)
 - [2026-09-20](digests/2026-09-20.md)
 - [2026-09-13](digests/2026-09-13.md)
